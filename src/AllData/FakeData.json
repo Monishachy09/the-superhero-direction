@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "author": "Anannya Ahmad",
+        "PubName": "ANANNYA",
+        "img": "https://i.ibb.co/4YfwCm7/pb1-removebg-preview.png",
+        "established": 1952,
+        "TotalBooks": 1981,
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "author": "Ahmad Sharif",
+        "PubName": "SOMOY PROKASHON",
+        "img": "https://i.ibb.co/CsC9LYB/pb2-removebg-preview.png",
+        "established": 1956,
+        "TotalBooks": 1177,
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "author": "Bhuban Osman",
+        "PubName": "AGAMEE PRAKASHAN",
+        "img": " https://i.ibb.co/JCc78PY/pb3-removebg-preview.png",
+        "established": 1982,
+        "TotalBooks": 1112,
+        "price": 1900
+    },
+    {
+        "id": 4,
+        "author": "Abul Bashar",
+        "PubName": "MOWLA BROTHERS",
+        "img": " https://i.ibb.co/crCkfjG/pb4-removebg-preview.png",
+        "established": 1979,
+        "TotalBooks": 1109,
+        "price": 3500
+    },
+    {
+        "id": 5,
+        "author": "Ali Imam",
+        "PubName": "OITIJJHYA",
+        "img": "https://i.ibb.co/MPXzQQF/pb5-removebg-preview.png",
+        "established": 1967,
+        "TotalBooks": 1082,
+        "price": 2800
+    },
+    {
+        "id": 6,
+        "author": "Rabeya Khatun",
+        "PubName": "ANYAPROKASH",
+        "img": " https://i.ibb.co/f87XJFF/pb6-removebg-preview.png",
+        "established": 1962,
+        "TotalBooks": 939,
+        "price": 2100
+    },
+    {
+        "id": 7,
+        "author": "Kakoli Begum",
+        "PubName": "KAKOLI PROKASHONI",
+        "img": "https://i.ibb.co/5MWvbcg/pb7-removebg-preview.png ",
+        "established": 1971,
+        "TotalBooks": 927,
+        "price": 2600
+    },
+    {
+        "id": 8,
+        "author": "Habibur Rahman",
+        "PubName": "GATIDHARA",
+        "img": "https://i.ibb.co/J22SH8r/pb8-removebg-preview.png",
+        "established": 2000,
+        "TotalBooks": 881,
+        "price": 1700
+    },
+    {
+        "id": 9,
+        "author": "Al-Mahmud",
+        "PubName": "SHEBA PROKASHONI",
+        "img": "https://i.ibb.co/1mBwb5p/pb9-removebg-preview.png",
+        "established": 1954,
+        "TotalBooks": 854,
+        "price": 3300
+    }
+]

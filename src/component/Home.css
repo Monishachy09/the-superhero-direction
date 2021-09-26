@@ -1,0 +1,13 @@
+header{
+    font-style: italic;
+    color: rgb(228, 225, 225);
+    background-color: gray;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.img{
+    height: 150px;
+}
+
